@@ -22,4 +22,7 @@ readcsv()
 
 
 # d = ['lisa',14,500]
+
+
+
 # writecsv(d)
